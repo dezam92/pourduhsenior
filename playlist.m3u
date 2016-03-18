@@ -1,104 +1,444 @@
-# pourduhsenior
+#EXTM3U
 
-#EXTINF:-1,[I][B][COLOR red]--- SPANISH ---[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR red] SPANISH [/COLOR][/B][/I]
 
-#EXTINF:-1, [I][B]Univision44HD[/B][/I]
-http://vaughnlive.tv/univision_hd44
-#EXTINF:-1, [I][B]Univision46HD[/B][/I]
-http://vaughnlive.tv/univision_hd46
-#EXTINF:-1, [I][B]Telemundo[/B][/I]
-http://vaughnlive.tv/telemundo44
-#EXTINF:-1, [I][B]Telecinco[/B][/I]
-http://vaughnlive.tv/telecincotv
-#EXTINF:-1, [I][B]Principe del Rap[/B][/I]
-http://vaughnlive.tv/principe_del_rap
-#EXTINF:-1, [I][B]Peliculas HD[/B][/I]
-http://vaughnlive.tv/mega_movieshd
-#EXTINF:-1, [I][B]Mega_movies[/B][/I]
-http://vaughnlive.tv/megamovieshd
-#EXTINF:-1, [I][B]Mega_Kids[/B][/I]
-http://vaughnlive.tv/mega_kids
-#EXTINF:-1, [I][B]Mega_Extremo[/B][/I]
-http://vaughnlive.tv/mega_extremo
-#EXTINF:-1, [I][B]Mega_Chavo[/B][/I]
-http://vaughnlive.tv/mega_chavo
-#EXTINF:-1, [I][B]GolTV[/B][/I]
-http://vaughnlive.tv/golitotv5
-#EXTINF:-1, [I][B]CineScape[/B][/I]
-http://vaughnlive.tv/cinescape
-#EXTINF:-1, [I][B]CineStar[/B][/I]
-http://vaughnlive.tv/cine_star
-#EXTINF:-1, [I][B]Peliculas[/B][/I]
-http://vaughnlive.tv/alfarotv
-#EXTINF:-1, [I][B]Deportes[/B][/I]
-http://vaughnlive.tv/afatv1
-#EXTINF:-1, [I][B]Movies 300[/B][/I]
-http://vaughnlive.tv/300
-#EXTINF:-1, [I][B]Universal movies[/B][/I]
-http://vaughnlive.tv/universal_movies
-#EXTINF:-1,PLUS:MULTICANAL DEPORTES
-rtmp://$OPT:rtmp-raw=rtmp://178.162.199.141/iguide playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
-#EXTINF:-1,PLUS:GOL TV
-rtmp://$OPT:rtmp-raw=rtmp://207.244.89.21/iguide playpath=h0e5yj2jixh8mky swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
-#EXTINF:-1,PLUS:GOL TV OP1
-rtmp://$OPT:rtmp-raw=rtmp://212.7.209.16/live playpath=cararatag?id=74467 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
-#EXTINF:-1,PLUS:CANAL+LIGA
-rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e3 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku
-#EXTINF:-1,PLUS:CANAL+LIGA OP1
-rtmp://$OPT:rtmp-raw=rtmp://46.28.49.156/live playpath=cararal?id=74466 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
-#EXTINF:-1,PLUS:CANAL+LIGA OP2
-rtmp://$OPT:rtmp-raw=rtmp://207.244.89.21/iguide playpath=ysxj77na2vpbpxl swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
-#EXTINF:-1,PLUS:CANAL+FUTBOL
-rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e1 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku
-#EXTINF:-1,PLUS:CANAL+DEPORTES
-rtmp://$OPT:rtmp-raw=rtmpe://209.95.34.58:1935/live playpath=w-sp.tv-e2 pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku
-#EXTINF:-1,PLUS:CANAL+LIGA DE CAMPEONES
-rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=cararatalct?id=74508 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
-#EXTINF:-1,DEPORTES LATINOS:FOX SPORTS MEXICO
-rtmp://$OPT:rtmp-raw=rtmp://212.7.209.16/live playpath=foxsportvip?id=74021 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
-#EXTINF:-1,DEPORTES LATINOS:FOX SPORTS2 MEXICO
-rtmp://$OPT:rtmp-raw=rtmp://109.123.116.154/live playpath=foxsport2vip?id=74022 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
-#EXTINF:-1,DEPORTES LATINOS:FOX SPORTS ARG
-rtmp://$OPT:rtmp-raw=rtmp://live.flexstream.net/redirect playpath=adnyv swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/loboicaperucita
-#EXTINF:-1,DEPORTES LATINOS:UNIVISION/TDN DEPORTES
-rtmp://$OPT:rtmp-raw=rtmp://137.63.71.58/edge/univision09242014/univision09242014 playpath=univision09242014 pageUrl=http://www.boxlivetv.net/loboicaperucita
-#EXTINF:-1,DEPORTES LATINOS:TDN DEPORTES
-rtmp://$OPT:rtmp-raw=rtmp://109.123.126.34/live playpath=tdnplanevip?id=74027 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK loboicaperucita
-#EXTINF:-1,DEPORTES LATINOS:TYC SPORTS
-rtmp://$OPT:rtmp-raw=rtmp://81.17.20.46/iguide playpath=grb13w517q07vos swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDloboi
+#EXTINF:-1, Univision01
+http://video03-atl.streamup.com/app/osihtocharms-stream_aac/playlist.m3u8
+#EXTINF:-1, Univision02
+https://video10-lax.streamup.com/app/red44s-stream_aac/playlist.m3u8
+#EXTINF:-1, Univision03
+https://video01-ams.streamup.com/app/crivow51s-stream_aac/chunklist.m3u8
+#EXTINF:-1, Telemundo
+rtmp://66.55.92.158:1935/app/testups-channel
+#EXTINF:-1, Telemundo
+rtmp://$OPT:rtmp-raw=rtmp://go.fasts.tv/fasts playpath=vipracing65 swfUrl=http://www.fasts.tv/player/player_embed_fasts.swf live=1 pageUrl=http://www.fasts.tv/embedplayer.php token=#ed%h0#w18723jdsahjkDHF
+#EXTINF:0,DEPORTES
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/deportes_alxadw6/playlist.m3u8
+#EXTINF:-1, Canal+ Deportes HD
+http://ipsatpro.com:8000/live/111111/111111/1012.m3u8
+#EXTINF:-1, Canal+ Estrenos HD
+http://ipsatpro.com:8000/live/111111/111111/1059.m3u8
+#EXTINF:-1, National Geographic Wild
+http://ipsatpro.com:8000/live/111111/111111/1055.m3u8
+#EXTINF:-1, National Geographic
+http://ipsatpro.com:8000/live/111111/111111/1057.m3u8
 
-#EXTINF:-1,[I][B][COLOR yellow]--- ENGLISH ---[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow] ENGLISH [/COLOR][/B][/I]
 
-#EXTINF:-1, [I][B]South Park - Uncensored[/B][/I]
+#EXTINF:-1, South Park 
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
-#EXTINF:-1 tvg-logo="Tom%20e%20Jerry.jpg" tvg-logo="http://logos.iptvglobal.com.br/Tom%20e%20Jerry.jpg" group-title="Desenhos 24 horas", [I][B]Tom and Jerry (Classic)[/I][/B]
+#EXTINF:-1 tvg-logo="Tom%20e%20Jerry.jpg" tvg-logo="http://logos.iptvglobal.com.br/Tom%20e%20Jerry.jpg" group-title="Desenhos 24 horas", Tom and Jerry
 rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
-#EXTINF:-1, [I][B]Simpsons[/B][/I]
-http://vaughnlive.tv/chrisdave2
-#EXTINF:-1, [I][B]National Geo HD[/B][/I]
-http://185.75.56.97:4022/udp/239.100.5.111:60995
-#EXTINF:-1,Cartoon network
+#EXTINF:-1, Cartoon network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1, MTV
 rtmp://83.218.202.202/live playpath=wt_mtv.stream swfUrl=http://webtv.md/swf/WebTV.swf?red5Server=rtmp://83.218.202.202/live&stream=wt_mtv.stream live=1
-#EXTINF:-1,Nickelodeon[COLOR red]link_down[/COLOR]
-rtmp://31.204.128.140/live/ playpath=brlive_0030 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Nickelodeon.html
-#EXTINF:-1, [I][B]Adventure Time[/B][/I]
-http://vaughnlive.tv/lmshows_at
-#EXTINF:-1, [I][B]Courage TCD[/B][/I]
-http://vaughnlive.tv/lmshows_ccd
-#EXTINF:-1, [I][B]Hell's Kitchen[/B][/I]
-http://vaughnlive.tv/gordon_ramseyhk
-#EXTINF:-1, [I][B]MxC[/B][/I]
-http://vaughnlive.tv/dontgeteliminated
-#EXTINF:-1, [I][B]Gordon Ramsay[/B][/I]
-http://vaughnlive.tv/changoxpr
-#EXTINF:-1, [I][B]HD movies[/B][/I]
-http://vaughnlive.tv/bluray_movies
+#EXTINF:-1, National Geographic
+http://over.ddns.net:65203/
+#EXTINF:-1, Discovery
+http://over.ddns.net:65204/
+#EXTINF:-1, AMC
+http://64.228.62.144:1024
+#EXTINF:-1, CBC-T
+http://64.228.62.144:2016
+#EXTINF:-1, RDS2
+http://64.228.62.144:2049
 
-#EXTINF:-1,[I][B][COLOR yellow]--- OTHER ---[/COLOR][/B][/I]
+#EXTINF:-1,[I][B][COLOR yellow] OneplayTV [/COLOR][/B][/I]
 
-#EXTINF:-1, [I][B]Running Man[/B][/I]
-http://vaughnlive.tv/bonjourmp3
-#EXTINF:-1, [I][B]Batsu[/B][/I]
-https://streamup.com/ducktoaster
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",A&E HD
+oneplaytv=502
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",AXN HD
+oneplaytv=501
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",CINECANAL PLUS HD
+oneplaytv=507
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Comedy Central HD
+oneplaytv=500
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",ESPN 3 HD
+oneplaytv=505
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",ESPN HD
+oneplaytv=494
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Fox 1 HD
+oneplaytv=487
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Fox Action HD
+oneplaytv=488
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Fox Movies HD
+oneplaytv=498
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Fox Sport 2 HD
+oneplaytv=486
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Fox Sport HD
+oneplaytv=485
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",FX HD
+oneplaytv=503
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",History Channel HD
+oneplaytv=492
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",MGM HD
+oneplaytv=496
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",MTV LIVE HD
+oneplaytv=506
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",NICK HD
+oneplaytv=499
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",SONY HD
+oneplaytv=508
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Space HD
+oneplaytv=483
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",The Film Zone HD
+oneplaytv=489
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",TNT HD
+oneplaytv=495
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",TruTV HD
+oneplaytv=493
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",UNIVERSAL HD
+oneplaytv=504
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",VH1 HD
+oneplaytv=491
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Canales HD",Waner Channel HD
+oneplaytv=484
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",A&E
+oneplaytv=430
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",A&E (Opcion 2)
+oneplaytv=837
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Animal Planet
+oneplaytv=444
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Animal Planet (Opcion 2)
+oneplaytv=885
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Bio.
+oneplaytv=447
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Discovery Channel
+oneplaytv=92
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Discovery Channel (Opcion 2)
+oneplaytv=851
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Discovery Civilization
+oneplaytv=448
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Discovery Theater (Opcion 2)
+oneplaytv=852
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Discovery Turbo
+oneplaytv=477
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",El Gourmet
+oneplaytv=475
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",El Gourmet (Opcion 2)
+oneplaytv=890
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",H&h
+oneplaytv=445
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",HD Teather Discovery
+oneplaytv=476
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",History
+oneplaytv=179
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",History (Opcion 2)
+oneplaytv=855
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Investigation Discovery
+oneplaytv=434
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Investigation Discovery (Opcion 2)
+oneplaytv=838
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",LifeTime
+oneplaytv=478
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",NAT GEO
+oneplaytv=429
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",NAT GEO (Opcion 2)
+oneplaytv=884
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Nat Geo Wild
+oneplaytv=442
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",Nat Geo Wild (Opcion 2)
+oneplaytv=856
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",TLC
+oneplaytv=708
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",TLC (Opcion 2)
+oneplaytv=839
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",TruTV
+oneplaytv=431
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Ciencia y Cultura",TruTV (Opcion 2)
+oneplaytv=843
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",24H
+oneplaytv=527
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",C5N
+oneplaytv=172
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",Cablenoticias
+oneplaytv=177
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",EuroNews en espanol
+oneplaytv=178
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",RT en espanol
+oneplaytv=228
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",Telesur
+oneplaytv=176
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Noticias",TN Todo Noticias
+oneplaytv=171
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Boomerang
+oneplaytv=440
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Boomerang (Opcion 2)
+oneplaytv=886
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Cartoon Network
+oneplaytv=106
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Cartoon Network (Opcion 2)
+oneplaytv=850
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Cbeebies
+oneplaytv=438
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Discovery Kids
+oneplaytv=108
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Discovery Kids (Opcion 2)
+oneplaytv=849
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Disney Channel
+oneplaytv=104
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Disney Channel (Opcion 2)
+oneplaytv=846
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Disney Junior
+oneplaytv=109
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Disney Junior (Opcion 2)
+oneplaytv=844
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Disney XD
+oneplaytv=107
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Disney XD (Opcion 2)
+oneplaytv=845
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Nick Jr.
+oneplaytv=439
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Nick Jr. (Opcion 2)
+oneplaytv=848
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Nickelodeon
+oneplaytv=105
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Nickelodeon (Opcion 2)
+oneplaytv=847
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",NickToons
+oneplaytv=458
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Tooncast
+oneplaytv=126
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Infantiles",Tooncast (Opcion 2)
+oneplaytv=887
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",America Sports
+oneplaytv=211
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Bein Sports
+oneplaytv=657
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",CMD
+oneplaytv=609
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",DeporTV
+oneplaytv=644
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Directv Sports
+oneplaytv=601
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN
+oneplaytv=129
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Espn (Opcion 2)
+oneplaytv=857
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN +
+oneplaytv=639
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN 2
+oneplaytv=307
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN 2 (Opcion 2)
+oneplaytv=858
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN 2 Argentina
+oneplaytv=1033
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN 3
+oneplaytv=306
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN Argentina
+oneplaytv=1032
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN Deportes
+oneplaytv=410
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",ESPN Deportes (Opcion 2)
+oneplaytv=1039
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Fox Sports
+oneplaytv=130
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Fox Sports (Opcion 2)
+oneplaytv=860
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Fox Sports 2
+oneplaytv=446
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Fox Sports 2 (opcion 2)
+oneplaytv=1036
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Fox Sports Argentina
+oneplaytv=1041
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",GolTV
+oneplaytv=669
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Planeta Futbol
+oneplaytv=863
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",Tyc Sports
+oneplaytv=102
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",UFC Network
+oneplaytv=1047
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Deportes",WWE
+oneplaytv=720
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",First Music
+oneplaytv=686
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",Kiss TV
+oneplaytv=571
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",MTV
+oneplaytv=86
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",MTV (Opcion 2)
+oneplaytv=893
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",MTV Hits
+oneplaytv=688
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",MTV Hits (Opcion 2)
+oneplaytv=894
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",MTV Live
+oneplaytv=689
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",Ritmonson
+oneplaytv=578
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",Telehit
+oneplaytv=580
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",Vevo
+oneplaytv=716
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",VH1
+oneplaytv=90
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",VH1 (Opcion 2)
+oneplaytv=896
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",VH1 Classics
+oneplaytv=687
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",VH1 Classics (Opcion 2)
+oneplaytv=895
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Musica",Virgin Radio
+oneplaytv=685
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",The Walking Dead 6x12 [06/03/16]
+oneplaytv=1048
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",AMC
+oneplaytv=526
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",AMC (Opcion 2)
+oneplaytv=880
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",AXN
+oneplaytv=404
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",AXN (Opcion 2)
+oneplaytv=829
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",BBC Enterteiment
+oneplaytv=432
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Casa Club
+oneplaytv=466
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Cine Latino
+oneplaytv=628
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Cinecanal
+oneplaytv=394
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Cinecanal (Opcion 2)
+oneplaytv=878
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Cinecanal Plus
+oneplaytv=451
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Cinemax
+oneplaytv=401
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Cinemax (Opcion 2)
+oneplaytv=879
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Comedy Central
+oneplaytv=406
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Comedy Central (Opcion 2)
+oneplaytv=841
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Dragon Ball Z
+oneplaytv=607
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Dragon Ball Z (Opcion 2)
+oneplaytv=1038
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",E! Entertainment
+oneplaytv=626
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",E! Entertainment (Opcion 2)
+oneplaytv=888
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",FOX (Opcion 2)
+oneplaytv=835
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox 1
+oneplaytv=389
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox 1 (Opcion 2)
+oneplaytv=865
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Action
+oneplaytv=449
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Action (Opcion 2)
+oneplaytv=869
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Cinema
+oneplaytv=454
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Cinema (Opcion 2)
+oneplaytv=868
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Classics
+oneplaytv=871
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Comedy
+oneplaytv=867
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Family
+oneplaytv=455
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Family (Opcion 2)
+oneplaytv=866
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",FOX Latinoamerica
+oneplaytv=423
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Life
+oneplaytv=436
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Life (Opcion 2)
+oneplaytv=840
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Movies
+oneplaytv=450
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Fox Movies (Opcion 2)
+oneplaytv=870
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",FOX SD
+oneplaytv=467
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",FX
+oneplaytv=398
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",FX (Opcion 2)
+oneplaytv=834
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Glitz
+oneplaytv=435
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Glitz (Opcion 2)
+oneplaytv=892
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",HBO
+oneplaytv=872
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",HBO 2
+oneplaytv=818
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",HBO Family
+oneplaytv=873
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",HBO PLUS
+oneplaytv=819
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",I-SAT
+oneplaytv=460
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Los simpsons TV
+oneplaytv=464
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Max Prime
+oneplaytv=820
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",MGM
+oneplaytv=453
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",MundoFox
+oneplaytv=889
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Naruto Shippuden
+oneplaytv=1042
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Paramount Channel
+oneplaytv=816
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Sony
+oneplaytv=396
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Sony (Opcion 2)
+oneplaytv=832
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",South Park
+oneplaytv=391
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Space
+oneplaytv=402
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Space (Opcion 2)
+oneplaytv=875
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Studio Universal
+oneplaytv=473
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Studio Universal (Opcion 2)
+oneplaytv=881
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Syfy
+oneplaytv=433
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Syfy (Opcion 2)
+oneplaytv=836
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TBS
+oneplaytv=437
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TBS (Opcion 2)
+oneplaytv=891
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TCM
+oneplaytv=456
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TCM (Opcion 2)
+oneplaytv=897
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Telemundo
+oneplaytv=511
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Telemundo (Opcion 2)
+oneplaytv=883
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",The Film Zone
+oneplaytv=452
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",The Film Zone (Opcion 2)
+oneplaytv=882
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TNT
+oneplaytv=77
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TNT (Opcion 2)
+oneplaytv=877
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TNT Serie
+oneplaytv=469
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",TNT Serie (Opcion 2)
+oneplaytv=830
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",UNIMAS
+oneplaytv=563
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Universal Channel
+oneplaytv=399
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Universal Channel (Alterno)
+oneplaytv=828
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Warner Bros
+oneplaytv=400
+#EXTINF:-1 $ExtFilter="OneplayTV" group-title="Cine & Series",Warner Bros (Opcion 2)
+oneplaytv=833
+
+#EXTINF:-1,[I][B][COLOR yellow] DIRECT TV SPORTS [/COLOR][/B][/I]
+
+#EXTINF:-1,DIRECTV SPORTS
+https://video11-lax.streamup.com/app/milotvhd13gts-stream_aac/playlist.m3u8
