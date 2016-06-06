@@ -3,10 +3,20 @@
 #EXTINF:-1,[I][B][COLOR red] --SPANISH-- [/COLOR][/B][/I]
 http://?
 
-#EXTINF:-1, Univision
-http://video07-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
-#EXTINF:0 tvg-name="Telemundo" tvg-language="Spanish" tvg-country="US" tvg-id="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/100px-Telemundo_logo_2012.svg.png" group-title="Entertainment",Telemundo (Entertainment) (US) (Spanish) 
-https://video10-lax.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
+#EXTINF:-1,TELEMUNDO 29
+rtmp://podi.hopper.pw:443/live/live_telemundo29
+
+#EXTINF:-1,TELEMUNDO 34
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+
+#EXTINF:-1,TELEMUNDO 35
+rtmp://podi.hopper.pw:443/live/live_telemundo35
+
+#EXTINF:-1,UNIVISION
+rtmp://podi.hopper.pw:443/live/live_univision_hd30
+
+#EXTINF:-1,UNIVISION 41 NY
+rtmp://podi.hopper.pw:443/live/live_univision41ny
 #EXTINF:0 tvg-name="TRV El Salvador" tvg-language="Spanish" tvg-country="SV" tvg-id="TRV El Salvador" tvg-logo="http://i.imgur.com/D9ezRix.jpg" group-title="News",TRV El Salvador (News) (SV) (Spanish) 
 http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0 tvg-name="TV Maya Guatemala" tvg-language="Spanish" tvg-country="GT" tvg-id="TV Maya Guatemala" tvg-logo="http://i.imgur.com/kkERjS2.jpg" group-title="Documentary",TV Maya Guatemala (Documentary) (GT) (Spanish) 
