@@ -3,96 +3,696 @@
 #EXTINF:-1,[I][B][COLOR red] --SPANISH-- [/COLOR][/B][/I]
 http://?
 
-#EXTINF:-1,TELEMUNDO 29
-rtmp://podi.hopper.pw:443/live/live_telemundo29
-
-#EXTINF:-1,TELEMUNDO 34
-rtmp://podi.hopper.pw:443/live/live_telemundo34
-
-#EXTINF:-1,TELEMUNDO 35
-rtmp://podi.hopper.pw:443/live/live_telemundo35
-
-#EXTINF:-1,UNIVISION
-rtmp://podi.hopper.pw:443/live/live_univision_hd30
-
-#EXTINF:-1,UNIVISION 41 NY
-rtmp://podi.hopper.pw:443/live/live_univision41ny
-#EXTINF:0 tvg-name="TRV El Salvador" tvg-language="Spanish" tvg-country="SV" tvg-id="TRV El Salvador" tvg-logo="http://i.imgur.com/D9ezRix.jpg" group-title="News",TRV El Salvador (News) (SV) (Spanish) 
-http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 tvg-name="TV Maya Guatemala" tvg-language="Spanish" tvg-country="GT" tvg-id="TV Maya Guatemala" tvg-logo="http://i.imgur.com/kkERjS2.jpg" group-title="Documentary",TV Maya Guatemala (Documentary) (GT) (Spanish) 
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png", TV Chile 
-http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish) 
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:0 tvg-name="Azteca Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca Noticias" tvg-logo="http://static.tvazteca.com/aztecanoticias/images/an_logo_horizontal.png" group-title="News",Azteca Noticias (News) (MX) (Spanish) 
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:0 tvg-name="CNN Spanish" tvg-language="Spanish" tvg-country="US" tvg-id="CNN Spanish" tvg-logo="http://diveheart.org/wp-content/uploads/2015/08/cnn-espanol-logo1-320x240.jpg" group-title="News",CNN Spanish (News) (US) (Spanish) 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
-#EXTINF:0 tvg-name="Canal 10 Chiapas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 10 Chiapas" tvg-logo="http://i.imgur.com/nsS4NdH.png" group-title="News",Canal 10 Chiapas (News) (MX) (Spanish) 
-rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
-#EXTINF:0 tvg-name="Canal 26 Noticias HD" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26 Noticias HD" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 Noticias HD (News) (AR) (Spanish) 
-http://live-edge01.telecentro.net.ar/live/26hd-480/playlist.m3u8
-#EXTINF:0 tvg-name="Canal 26 Noticias" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26 Noticias" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 Noticias (News) (AR) (Spanish) 
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0 tvg-name="Globo TV" tvg-language="Spanish" tvg-country="HN" tvg-id="Globo TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="News",Globo TV (News) (HN) (Spanish) 
-http://162.212.176.83:8080/globotv.m3u8
-#EXTINF:0 tvg-name="Globovision" tvg-language="Spanish" tvg-country="VE" tvg-id="Globovision" tvg-logo="http://cdn.globovision.com/wp-content/uploads/2014/05/LogoHead2.png" group-title="News",Globovision (News) (VE) (Spanish) 
-http://edge.wms28.lorini.net/globovisiontv/globovisiontv/hasbahca.m3u8
-#EXTINF:0 tvg-name="HCH Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="HCH Honduras" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/03/Watch-HCH-Hable-Como-Hable-Live-TV-from-Honduras.jpg" group-title="News",HCH Honduras (News) (HN) (Spanish) 
-http://162.212.176.83:8080/hchtv.m3u8
-#EXTINF:0 tvg-name="Maya Tv" tvg-language="Spanish" tvg-country="HN" tvg-id="Maya Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/maya_tv.jpg" group-title="News",Maya Tv (News) (HN) (Spanish) 
-http://162.212.176.83:8080/mayatv.m3u8
-#EXTINF:0 tvg-name="TV Acapulco" tvg-language="Spanish" tvg-country="MX" tvg-id="TV Acapulco" tvg-logo="http://i.imgur.com/j4E53rA.jpg" group-title="News",TV Acapulco (News) (MX) (Spanish) 
-rtmp://stream.hosteris.com/tvacapulco/tvacapulco
-#EXTINF:0 tvg-name="Telemax TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Telemax TV" tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2015/03/Logo-Telemax.jpg" group-title="News",Telemax TV (News) (MX) (Spanish) 
-http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
-#EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News",Xtremo channel (News) (ES) (Spanish) 
-http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
-#EXTINF:0 tvg-name="Discovery Channel HD" tvg-language="Spanish" tvg-country="MX" tvg-id="Discovery Channel HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNCJgmHnzO-fQXXf1OsNr4O5egD-LUo2vL9vmD8X5OJafrnluVMSKZzQ" group-title="Documentary",Discovery Channel HD (Documentary) (MX) (Spanish) 
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="TV Maya Guatemala" tvg-language="Spanish" tvg-country="GT" tvg-id="TV Maya Guatemala" tvg-logo="http://i.imgur.com/kkERjS2.jpg" group-title="Documentary",TV Maya Guatemala (Documentary) (GT) (Spanish) 
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="TLX Telemax" tvg-language="Spanish" tvg-country="AR" tvg-id="TXL Telemax" tvg-logo="http://i.imgur.com/zBf7Vy1.png" group-title="Documentary",TLX Telemax (Documentary) (AR) (Spanish) 
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0 tvg-name="USCG Television Ecuador" tvg-language="Spanish" tvg-country="EX" tvg-id="USCG Television Ecuador" tvg-logo="http://puu.sh/nyTsI/8380211bcd.jpg" group-title="Documentary",USCG Television Ecuador (Documentary) (EX) (Spanish) 
-rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
-#EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Entertainment",Antena 3 HD (Entertainment) (ES) (Spanish) 
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:0 tvg-name="Antena Latina" tvg-language="Spanish" tvg-country="DO" tvg-id="Antena Latina" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZf1Zir-2tCSvvYLrfC8dftZESrpWk3BpHR7UkH6lLBpHsqhbP2gOmDw" group-title="Entertainment",Antena Latina (Entertainment) (DO) (Spanish) 
-http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
-#EXTINF:0 tvg-name="Azteca 7 Monterrey" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca 7 Monterrey" tvg-logo="http://www.azteca7.com/portal/siete-beta/images/logo_empty.png" group-title="Entertainment",Azteca 7 Monterrey (Entertainment) (MX) (Spanish) 
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:0 tvg-name="Azteca Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="Azteca Honduras" tvg-logo="http://i.imgur.com/LdA1y9J.png" group-title="Entertainment",Azteca Honduras (Entertainment) (HN) (Spanish) 
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:0 tvg-name="Azteca trece" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca trece" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4Ascg6mhU-zkevUR_HuiMBpjPKVr7Jfa8FTKglaISwSw6KXRurkpIw" group-title="Entertainment",Azteca trece (Entertainment) (MX) (Spanish) 
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-#EXTINF:0 tvg-name="Canal 13 Nicaragua" tvg-language="Spanish" tvg-country="NI" tvg-id="Canal 13 Nicaragua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" group-title="Entertainment",Canal 13 Nicaragua (Entertainment) (NI) (Spanish) 
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="Canal Once HD" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4cFy2rEq2lsWeve6Tp8dLc5f7JQ69XXEmyoOQ8e5rOT7C5bui13ROPaQ" group-title="Entertainment",Canal Once HD (Entertainment) (MX) (Spanish) 
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Canal de las Estrellas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/XEW-TV_(logo).png/150px-XEW-TV_(logo).png" group-title="Entertainment",Canal de las Estrellas (Entertainment) (MX) (Spanish) 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:0 tvg-name="E! Entertainment Latino" tvg-language="Spanish" tvg-country="US" tvg-id="E! Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E!_Logo.svg/100px-E!_Logo.svg.png" group-title="Entertainment",E! Entertainment Latino (Entertainment) (US) (Spanish) 
-http://31.220.40.118/LiveEdge/EentertaimentSD/playlist.m3u8?token=f1ea518b512761e8a8f6b7b9bce34111
-#EXTINF:0 tvg-name="FX" tvg-language="Spanish" tvg-country="MX" tvg-id="FX" tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/fx-tv-channel-logo.jpg" group-title="Entertainment",FX (Entertainment) (MX) (Spanish) 
-http://live.tutvgratis.tv/ch/101.m3u8
-#EXTINF:0 tvg-name="Investigative Discovery" tvg-language="Spanish" tvg-country="MX" tvg-id="ID tv" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQAU0fK9MXfx3P1dagDCfXQWQ3nPKgeKkC6oO-RG5n4tO3URpCsYABbg" group-title="Entertainment",Investigative Discovery (Entertainment) (MX) (Spanish) 
-http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
-#EXTINF:0 tvg-name="CBS HD" tvg-language="Spanish" tvg-country="PA" tvg-id="RPC TV" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="Entertainment",CBS HD (Entertainment) (PA) (Spanish) 
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:0 tvg-name="Tele Antillas" tvg-language="Spanish" tvg-country="ES" tvg-id="Tele Antillas" tvg-logo="http://img2.wikia.nocookie.net/__cb20121112123522/boboiboy/images/7/7b/Logo_teleantillas.jpg" group-title="Entertainment",Tele Antillas (Entertainment) (ES) (Spanish) 
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u
-#EXTINF:0 tvg-name="Canal+ Deportes 2" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Deportes 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy5N50r6Cgj_i150d5rvhNLsFgUHqjiICN7S3pyiocY-L8Po7NDDee0Q" group-title="Sports",Canal+ Deportes 2 (Sports) (ES) (Spanish) 
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:0 tvg-name="Canal+ Futbol" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Futbol" tvg-logo="http://i.imgur.com/gVg0QEZ.png" group-title="Sports",Canal+ Futbol (Sports) (ES) (Spanish) 
-http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
-#EXTINF:0 tvg-name="Fox Sports" tvg-language="Spanish" tvg-country="MX" tvg-id="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Fox_Sports_logo.svg/250px-Fox_Sports_logo.svg.png" group-title="Sports",Fox Sports (Sports) (MX) (Spanish) 
-http://canalesvip.ml/test/522.m3u8
-#EXTINF:0 tvg-name="beIN Sports" tvg-language="Spanish" tvg-country="ES" tvg-id="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37P4Hh8Fc8P1o7-6-ygxKxp4Xa4ThZk4IZ_AgmpuAaGchgOd7oYAgqRg" group-title="Sports",beIN Sports (Sports) (ES) (Spanish) 
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-#EXTINF:0 tvg-name="Super Canal" tvg-language="Spanish" tvg-country="DO" tvg-id="Super Canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb5H9v6yl0Sh3380i9kmbjuCA1-4cdAQn6Tm7g69Ob5mzwDeg4lFUNMWN" group-title="Public-Entertainment",Super Canal (Public-Entertainment) (DO) (Spanish) 
-rtmp://newyorkstream.ddns.net:1935/supercanalcaribe/
+#EXTINF:-1,A&E HD
+http://158.69.127.19:8000/live/dydlista/dydlista/434.ts
+#EXTINF:-1,AMC HD
+http://158.69.127.19:8000/live/dydlista/dydlista/460.ts
+#EXTINF:-1,AXN HD
+http://158.69.127.19:8000/live/dydlista/dydlista/435.ts
+#EXTINF:-1,Az Cinema HD
+http://158.69.127.19:8000/live/dydlista/dydlista/455.ts
+#EXTINF:-1,Azteca Corazon HD
+http://158.69.127.19:8000/live/dydlista/dydlista/421.ts
+#EXTINF:-1,AZ Click HD
+http://158.69.127.19:8000/live/dydlista/dydlista/423.ts
+#EXTINF:-1,BBC Entertainment HD
+http://158.69.127.19:8000/live/dydlista/dydlista/441.ts
+#EXTINF:-1,Canal 5 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/425.ts
+#EXTINF:-1,Canal De Las Estrellas HD
+http://158.69.127.19:8000/live/dydlista/dydlista/422.ts
+#EXTINF:-1,Carton Network HD
+http://158.69.127.19:8000/live/dydlista/dydlista/446.ts
+#EXTINF:-1,CBEEBIES HD
+http://158.69.127.19:8000/live/dydlista/dydlista/444.ts
+#EXTINF:-1,Cine Canal HD
+http://158.69.127.19:8000/live/dydlista/dydlista/456.ts
+#EXTINF:-1,Comedy Central HD
+http://158.69.127.19:8000/live/dydlista/dydlista/437.ts
+#EXTINF:-1,Discovery Teather HD
+http://158.69.127.19:8000/live/dydlista/dydlista/447.ts
+#EXTINF:-1,Discovey World HD
+http://158.69.127.19:8000/live/dydlista/dydlista/450.ts
+#EXTINF:-1,El Financiero Bloomberg HD
+http://158.69.127.19:8000/live/dydlista/dydlista/469.ts
+#EXTINF:-1,ESPN HD
+http://158.69.127.19:8000/live/dydlista/dydlista/464.ts
+#EXTINF:-1,ESPN   HD
+http://158.69.127.19:8000/live/dydlista/dydlista/462.ts
+#EXTINF:-1,ESPN 3 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/463.ts
+#EXTINF:-1,ESPN 2 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/465.ts
+#EXTINF:-1,Fashion TV HD
+http://158.69.127.19:8000/live/dydlista/dydlista/440.ts
+#EXTINF:-1,Film Zone HD
+http://158.69.127.19:8000/live/dydlista/dydlista/459.ts
+#EXTINF:-1,Foro Tv HD
+http://158.69.127.19:8000/live/dydlista/dydlista/424.ts
+#EXTINF:-1,Fox 1 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/452.ts
+#EXTINF:-1,Fox Action HD
+http://158.69.127.19:8000/live/dydlista/dydlista/453.ts
+#EXTINF:-1,Fox HD
+http://158.69.127.19:8000/live/dydlista/dydlista/429.ts
+#EXTINF:-1,Fox Life HD
+http://158.69.127.19:8000/live/dydlista/dydlista/443.ts
+#EXTINF:-1,Fox Movies HD
+http://158.69.127.19:8000/live/dydlista/dydlista/454.ts
+#EXTINF:-1,Fox Sports HD
+http://158.69.127.19:8000/live/dydlista/dydlista/466.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/467.ts
+#EXTINF:-1,FX HD
+http://158.69.127.19:8000/live/dydlista/dydlista/433.ts
+#EXTINF:-1,Gala Tv HD
+http://158.69.127.19:8000/live/dydlista/dydlista/426.ts
+#EXTINF:-1,Golden HD
+http://158.69.127.19:8000/live/dydlista/dydlista/458.ts
+#EXTINF:-1,History HD
+http://158.69.127.19:8000/live/dydlista/dydlista/448.ts
+#EXTINF:-1,HOLA TV HD
+http://158.69.127.19:8000/live/dydlista/dydlista/439.ts
+#EXTINF:-1,MTV Hits HD
+http://158.69.127.19:8000/live/dydlista/dydlista/472.ts
+#EXTINF:-1,MTV Live HD
+http://158.69.127.19:8000/live/dydlista/dydlista/470.ts
+#EXTINF:-1,Multimedios Monterrey HD
+http://158.69.127.19:8000/live/dydlista/dydlista/428.ts
+#EXTINF:-1,NatGeo Wild HD
+http://158.69.127.19:8000/live/dydlista/dydlista/449.ts
+#EXTINF:-1,Nick HD
+http://158.69.127.19:8000/live/dydlista/dydlista/445.ts
+#EXTINF:-1,Once Tv HD
+http://158.69.127.19:8000/live/dydlista/dydlista/427.ts
+#EXTINF:-1,PX HD
+http://158.69.127.19:8000/live/dydlista/dydlista/468.ts
+#EXTINF:-1,Sony HD
+http://158.69.127.19:8000/live/dydlista/dydlista/430.ts
+#EXTINF:-1,Space HD
+http://158.69.127.19:8000/live/dydlista/dydlista/461.ts
+#EXTINF:-1,Telehit HD
+http://158.69.127.19:8000/live/dydlista/dydlista/471.ts
+#EXTINF:-1,TNT HD
+http://158.69.127.19:8000/live/dydlista/dydlista/457.ts
+#EXTINF:-1,TNT Series HD
+http://158.69.127.19:8000/live/dydlista/dydlista/442.ts
+#EXTINF:-1,Trece HD
+http://158.69.127.19:8000/live/dydlista/dydlista/420.ts
+#EXTINF:-1,Tru Tv HD
+http://158.69.127.19:8000/live/dydlista/dydlista/436.ts
+#EXTINF:-1,Unicable HD
+http://158.69.127.19:8000/live/dydlista/dydlista/438.ts
+#EXTINF:-1,Universal HD
+http://158.69.127.19:8000/live/dydlista/dydlista/432.ts
+#EXTINF:-1,VH1 Classic HD
+http://158.69.127.19:8000/live/dydlista/dydlista/473.ts
+#EXTINF:-1,Warner HD
+http://158.69.127.19:8000/live/dydlista/dydlista/431.ts
+#EXTINF:-1,Wobi HD
+http://158.69.127.19:8000/live/dydlista/dydlista/451.ts
+#EXTINF:-1,World Fashion Channel
+http://158.69.127.19:8000/live/dydlista/dydlista/553.ts
+#EXTINF:-1,Azteca Noticias HD
+http://158.69.127.19:8000/live/dydlista/dydlista/419.ts
+#EXTINF:-1,Telemundo PR codex
+http://158.69.127.19:8000/live/dydlista/dydlista/498.ts
+#EXTINF:-1,TBN
+http://158.69.127.19:8000/live/dydlista/dydlista/542.ts
+#EXTINF:-1,Star Treck: 24/7
+http://158.69.127.19:8000/live/dydlista/dydlista/546.ts
+#EXTINF:-1,SpongeBob (24/7)
+http://158.69.127.19:8000/live/dydlista/dydlista/550.ts
+#EXTINF:-1,South Park - Uncensored (24/7)
+http://158.69.127.19:8000/live/dydlista/dydlista/548.ts
+#EXTINF:-1,Simpsons (24/7)
+http://158.69.127.19:8000/live/dydlista/dydlista/549.ts
+#EXTINF:-1,NASA TV
+http://158.69.127.19:8000/live/dydlista/dydlista/541.ts
+#EXTINF:-1,King of the Hill (24/7)
+http://158.69.127.19:8000/live/dydlista/dydlista/551.ts
+#EXTINF:-1,IR:TG4
+http://158.69.127.19:8000/live/dydlista/dydlista/544.ts
+#EXTINF:-1,IR:Irish TV
+http://158.69.127.19:8000/live/dydlista/dydlista/543.ts
+#EXTINF:-1,Classics: 24/7
+http://158.69.127.19:8000/live/dydlista/dydlista/545.ts
+#EXTINF:-1,BYU TV
+http://158.69.127.19:8000/live/dydlista/dydlista/552.ts
+#EXTINF:-1,Bolliwood Movies: 24/7
+http://158.69.127.19:8000/live/dydlista/dydlista/547.ts
+#EXTINF:-1,WGN 9 CW
+http://158.69.127.19:8000/live/dydlista/dydlista/518.ts
+#EXTINF:-1,Weather Channel US
+http://158.69.127.19:8000/live/dydlista/dydlista/531.ts
+#EXTINF:-1,University of California TV
+http://158.69.127.19:8000/live/dydlista/dydlista/538.ts
+#EXTINF:-1,TRT Sports HD 720
+http://158.69.127.19:8000/live/dydlista/dydlista/502.ts
+#EXTINF:-1,TN
+http://158.69.127.19:8000/live/dydlista/dydlista/529.ts
+#EXTINF:-1,Russian Extreme HD 720
+http://158.69.127.19:8000/live/dydlista/dydlista/503.ts
+#EXTINF:-1,Rt Espana Espanol
+http://158.69.127.19:8000/live/dydlista/dydlista/523.ts
+#EXTINF:-1,RT en espa�ol
+http://158.69.127.19:8000/live/dydlista/dydlista/524.ts
+#EXTINF:-1,Rt America English
+http://158.69.127.19:8000/live/dydlista/dydlista/522.ts
+#EXTINF:-1,RoswellLive US
+http://158.69.127.19:8000/live/dydlista/dydlista/537.ts
+#EXTINF:-1,News Westchester(Weather from Hudson Valley)
+http://158.69.127.19:8000/live/dydlista/dydlista/536.ts
+#EXTINF:-1,News Westchester(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/535.ts
+#EXTINF:-1,News Brooklyn(Weather)
+http://158.69.127.19:8000/live/dydlista/dydlista/534.ts
+#EXTINF:-1,HSN 2
+http://158.69.127.19:8000/live/dydlista/dydlista/533.ts
+#EXTINF:-1,HSN
+http://158.69.127.19:8000/live/dydlista/dydlista/532.ts
+#EXTINF:-1,Futbol tv TVB8
+http://158.69.127.19:8000/live/dydlista/dydlista/505.ts
+#EXTINF:-1,EuroNews sd English
+http://158.69.127.19:8000/live/dydlista/dydlista/521.ts
+#EXTINF:-1,Euronews Espanol
+http://158.69.127.19:8000/live/dydlista/dydlista/519.ts
+#EXTINF:-1,Euronews English
+http://158.69.127.19:8000/live/dydlista/dydlista/520.ts
+#EXTINF:-1,Canal 26 Noticias
+http://158.69.127.19:8000/live/dydlista/dydlista/530.ts
+#EXTINF:-1,c5n noticias argentina
+http://158.69.127.19:8000/live/dydlista/dydlista/528.ts
+#EXTINF:-1,bloomberg news
+http://158.69.127.19:8000/live/dydlista/dydlista/525.ts
+#EXTINF:-1,abc news hd
+http://158.69.127.19:8000/live/dydlista/dydlista/527.ts
+#EXTINF:-1,abc news English
+http://158.69.127.19:8000/live/dydlista/dydlista/526.ts
+#EXTINF:-1,360TV
+http://158.69.127.19:8000/live/dydlista/dydlista/517.ts
+#EXTINF:-1,Mega Peru
+http://158.69.127.19:8000/live/dydlista/dydlista/508.ts
+#EXTINF:-1,Gol TV
+http://158.69.127.19:8000/live/dydlista/dydlista/507.ts
+#EXTINF:-1,Telemundo 2
+http://158.69.127.19:8000/live/dydlista/dydlista/506.ts
+#EXTINF:-1,Cartoon Network US
+http://158.69.127.19:8000/live/dydlista/dydlista/501.ts
+#EXTINF:-1,Live Motor Sport
+http://158.69.127.19:8000/live/dydlista/dydlista/500.ts
+#EXTINF:-1,Azteca Deportes
+http://158.69.127.19:8000/live/dydlista/dydlista/499.ts
+#EXTINF:-1,True Sport 2 hd
+http://158.69.127.19:8000/live/dydlista/dydlista/476.ts
+#EXTINF:-1,Novasport1
+http://158.69.127.19:8000/live/dydlista/dydlista/480.ts
+#EXTINF:-1,Digisports 3
+http://158.69.127.19:8000/live/dydlista/dydlista/479.ts
+#EXTINF:-1,Telemundo
+http://158.69.127.19:8000/live/dydlista/dydlista/474.ts
+#EXTINF:-1,bein sports *
+http://158.69.127.19:8000/live/dydlista/dydlista/411.ts
+#EXTINF:-1,Wobi
+http://158.69.127.19:8000/live/dydlista/dydlista/115.ts
+#EXTINF:-1,Une TV
+http://158.69.127.19:8000/live/dydlista/dydlista/43.ts
+#EXTINF:-1,Williax
+http://158.69.127.19:8000/live/dydlista/dydlista/7.ts
+#EXTINF:-1,Warner SD
+http://158.69.127.19:8000/live/dydlista/dydlista/63.ts
+#EXTINF:-1,VMAS TV
+http://158.69.127.19:8000/live/dydlista/dydlista/42.ts
+#EXTINF:-1,VH1 Classic
+http://158.69.127.19:8000/live/dydlista/dydlista/153.ts
+#EXTINF:-1,Uno Tv
+http://158.69.127.19:8000/live/dydlista/dydlista/57.ts
+#EXTINF:-1,Universal SD
+http://158.69.127.19:8000/live/dydlista/dydlista/64.ts
+#EXTINF:-1,Universal Channel
+http://158.69.127.19:8000/live/dydlista/dydlista/78.ts
+#EXTINF:-1,Unicable
+http://158.69.127.19:8000/live/dydlista/dydlista/71.ts
+#EXTINF:-1,UNE TV Manizales
+http://158.69.127.19:8000/live/dydlista/dydlista/41.ts
+#EXTINF:-1,TVE Internacional
+http://158.69.127.19:8000/live/dydlista/dydlista/148.ts
+#EXTINF:-1,TV Agro
+http://158.69.127.19:8000/live/dydlista/dydlista/40.ts
+#EXTINF:-1,Tru Tv
+http://158.69.127.19:8000/live/dydlista/dydlista/69.ts
+#EXTINF:-1,Trendy Channel SD
+http://158.69.127.19:8000/live/dydlista/dydlista/88.ts
+#EXTINF:-1,Trece SD
+http://158.69.127.19:8000/live/dydlista/dydlista/48.ts
+#EXTINF:-1,Total Play SD
+http://158.69.127.19:8000/live/dydlista/dydlista/45.ts
+#EXTINF:-1,Tooncast
+http://158.69.127.19:8000/live/dydlista/dydlista/101.ts
+#EXTINF:-1,TNT Series HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/80.ts
+#EXTINF:-1,TNT HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/123.ts
+#EXTINF:-1,TNT
+http://158.69.127.19:8000/live/dydlista/dydlista/131.ts
+#EXTINF:-1,TIIN
+http://158.69.127.19:8000/live/dydlista/dydlista/100.ts
+#EXTINF:-1,Tigo Music
+http://158.69.127.19:8000/live/dydlista/dydlista/39.ts
+#EXTINF:-1,Televida
+http://158.69.127.19:8000/live/dydlista/dydlista/38.ts
+#EXTINF:-1,Telemedellin
+http://158.69.127.19:8000/live/dydlista/dydlista/36.ts
+#EXTINF:-1,Telehit
+http://158.69.127.19:8000/live/dydlista/dydlista/150.ts
+#EXTINF:-1,Telef
+http://158.69.127.19:8000/live/dydlista/dydlista/58.ts
+#EXTINF:-1,Telecaribe
+http://158.69.127.19:8000/live/dydlista/dydlista/35.ts
+#EXTINF:-1,Telecafe
+http://158.69.127.19:8000/live/dydlista/dydlista/33.ts
+#EXTINF:-1,Teleantioquia
+http://158.69.127.19:8000/live/dydlista/dydlista/32.ts
+#EXTINF:-1,Teleamiga
+http://158.69.127.19:8000/live/dydlista/dydlista/37.ts
+#EXTINF:-1,TCM
+http://158.69.127.19:8000/live/dydlista/dydlista/136.ts
+#EXTINF:-1,TBS Very Funy
+http://158.69.127.19:8000/live/dydlista/dydlista/86.ts
+#EXTINF:-1,Syfy
+http://158.69.127.19:8000/live/dydlista/dydlista/79.ts
+#EXTINF:-1,Studio Universal
+http://158.69.127.19:8000/live/dydlista/dydlista/134.ts
+#EXTINF:-1,Space HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/128.ts
+#EXTINF:-1,Space
+http://158.69.127.19:8000/live/dydlista/dydlista/133.ts
+#EXTINF:-1,Sony
+http://158.69.127.19:8000/live/dydlista/dydlista/62.ts
+#EXTINF:-1,SolTV
+http://158.69.127.19:8000/live/dydlista/dydlista/16.ts
+#EXTINF:-1,RPP
+http://158.69.127.19:8000/live/dydlista/dydlista/17.ts
+#EXTINF:-1,Ritmoson
+http://158.69.127.19:8000/live/dydlista/dydlista/154.ts
+#EXTINF:-1,RedPeru
+http://158.69.127.19:8000/live/dydlista/dydlista/11.ts
+#EXTINF:-1,PX
+http://158.69.127.19:8000/live/dydlista/dydlista/144.ts
+#EXTINF:0,BEIN
+http://80.79.23.229:8000/live/yo/yo/1
+#EXTINF:0,LIGA
+http://80.79.23.229:8000/live/yo/yo/2
+#EXTINF:0,Eurosport 1
+http://80.79.23.210:8000/live/yo/yo/1
+#EXTINF:0,Eurosport 2
+http://80.79.23.210:8000/live/yo/yo/2
+#EXTINF:0,SPORT TV 1
+http://80.79.23.210:8000/live/yo/yo/3
+#EXTINF:0,SPORT TV 2
+http://80.79.23.210:8000/live/yo/yo/4
+#EXTINF:0,SPORT TV 3
+http://80.79.23.210:8000/live/yo/yo/6
+#EXTINF:0,SPORT TV 4
+http://80.79.23.210:8000/live/yo/yo/7
+#EXTINF:0,HOLLYWOOD
+http://80.79.23.229:8000/live/yo/yo/5
+#EXTINF:0,ACCION
+http://80.79.23.210:8000/live/yo/yo/8
+#EXTINF:0,VIAJAR
+http://80.79.23.229:8000/live/yo/yo/10
+#EXTINF:0,GEO WILD
+http://80.79.23.229:8000/live/yo/yo/26 
+#EXTINF:-1,Proyecto 40 SD
+http://158.69.127.19:8000/live/dydlista/dydlista/49.ts
+#EXTINF:-1,PANAMERICANA
+http://158.69.127.19:8000/live/dydlista/dydlista/3.ts
+#EXTINF:-1,Pacifico TV
+http://158.69.127.19:8000/live/dydlista/dydlista/15.ts
+#EXTINF:-1,Once Tv SD
+http://158.69.127.19:8000/live/dydlista/dydlista/56.ts
+#EXTINF:-1,Nicktoons
+http://158.69.127.19:8000/live/dydlista/dydlista/94.ts
+#EXTINF:-1,Nick
+http://158.69.127.19:8000/live/dydlista/dydlista/95.ts
+#EXTINF:-1,Nick Jr
+http://158.69.127.19:8000/live/dydlista/dydlista/92.ts
+#EXTINF:-1,Nick HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/96.ts
+#EXTINF:-1,National Geographic
+http://158.69.127.19:8000/live/dydlista/dydlista/109.ts
+#EXTINF:-1,NatGeo Wild SD
+http://158.69.127.19:8000/live/dydlista/dydlista/104.ts
+#EXTINF:-1,Multimedios Monterrey SD
+http://158.69.127.19:8000/live/dydlista/dydlista/59.ts
+#EXTINF:-1,MTV Live
+http://158.69.127.19:8000/live/dydlista/dydlista/149.ts
+#EXTINF:-1,MTV Hits
+http://158.69.127.19:8000/live/dydlista/dydlista/152.ts
+#EXTINF:-1,MTV
+http://158.69.127.19:8000/live/dydlista/dydlista/151.ts
+#EXTINF:-1,Monterrico
+http://158.69.127.19:8000/live/dydlista/dydlista/19.ts
+#EXTINF:-1,Milenio TV
+http://158.69.127.19:8000/live/dydlista/dydlista/146.ts
+#EXTINF:-1,Mi Musica HD
+http://158.69.127.19:8000/live/dydlista/dydlista/31.ts
+#EXTINF:-1,Mas Chic SD
+http://158.69.127.19:8000/live/dydlista/dydlista/74.ts
+#EXTINF:-1,Lifetime
+http://158.69.127.19:8000/live/dydlista/dydlista/110.ts
+#EXTINF:-1,Lifedesign
+http://158.69.127.19:8000/live/dydlista/dydlista/30.ts
+#EXTINF:-1,LATINA(op2)
+http://158.69.127.19:8000/live/dydlista/dydlista/6.ts
+#EXTINF:-1,LATINA
+http://158.69.127.19:8000/live/dydlista/dydlista/4.ts
+#EXTINF:-1,Isat
+http://158.69.127.19:8000/live/dydlista/dydlista/135.ts
+#EXTINF:-1,HOLA TV
+http://158.69.127.19:8000/live/dydlista/dydlista/72.ts
+#EXTINF:-1,HMX SD
+http://158.69.127.19:8000/live/dydlista/dydlista/60.ts
+#EXTINF:-1,History HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/103.ts
+#EXTINF:-1,Gourmet
+http://158.69.127.19:8000/live/dydlista/dydlista/81.ts
+#EXTINF:-1,Golden HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/124.ts
+#EXTINF:-1,Golden Edge
+http://158.69.127.19:8000/live/dydlista/dydlista/132.ts
+#EXTINF:-1,Gol Peru
+http://158.69.127.19:8000/live/dydlista/dydlista/8.ts
+#EXTINF:-1,Glitz
+http://158.69.127.19:8000/live/dydlista/dydlista/83.ts
+#EXTINF:-1,Garage Tv
+http://158.69.127.19:8000/live/dydlista/dydlista/82.ts
+#EXTINF:-1,Gala Tv SD
+http://158.69.127.19:8000/live/dydlista/dydlista/55.ts
+#EXTINF:-1,FX SD
+http://158.69.127.19:8000/live/dydlista/dydlista/65.ts
+#EXTINF:-1,FX
+http://158.69.127.19:8000/live/dydlista/dydlista/66.ts
+#EXTINF:-1,Fox Sports 2
+http://158.69.127.19:8000/live/dydlista/dydlista/143.ts
+#EXTINF:-1,Fox Sports
+http://158.69.127.19:8000/live/dydlista/dydlista/142.ts
+#EXTINF:-1,Fox SD
+http://158.69.127.19:8000/live/dydlista/dydlista/61.ts
+#EXTINF:-1,Fox Movies HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/118.ts
+#EXTINF:-1,Fox Life HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/84.ts
+#EXTINF:-1,Fox Classics
+http://158.69.127.19:8000/live/dydlista/dydlista/120.ts
+#EXTINF:-1,Fox Cinema
+http://158.69.127.19:8000/live/dydlista/dydlista/119.ts
+#EXTINF:-1,Fox Action HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/117.ts
+#EXTINF:-1,Fox 1 HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/116.ts
+#EXTINF:-1,FOX
+http://158.69.127.19:8000/live/dydlista/dydlista/75.ts
+#EXTINF:-1,Foro Tv SD
+http://158.69.127.19:8000/live/dydlista/dydlista/53.ts
+#EXTINF:-1,Formula 1
+http://158.69.127.19:8000/live/dydlista/dydlista/137.ts
+#EXTINF:-1,Film Zone HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/125.ts
+#EXTINF:-1,Fashion TV
+http://158.69.127.19:8000/live/dydlista/dydlista/73.ts
+#EXTINF:-1,ESPN
+http://158.69.127.19:8000/live/dydlista/dydlista/140.ts
+#EXTINF:-1,ESPN 3
+http://158.69.127.19:8000/live/dydlista/dydlista/139.ts
+#EXTINF:-1,ESPN 2
+http://158.69.127.19:8000/live/dydlista/dydlista/141.ts
+#EXTINF:-1,ESPN+
+http://158.69.127.19:8000/live/dydlista/dydlista/138.ts
+#EXTINF:-1,El Tiempo Television
+http://158.69.127.19:8000/live/dydlista/dydlista/28.ts
+#EXTINF:-1,El Financiero Bloomberg
+http://158.69.127.19:8000/live/dydlista/dydlista/147.ts
+#EXTINF:-1,E! Entertainment
+http://158.69.127.19:8000/live/dydlista/dydlista/77.ts
+#EXTINF:-1,Distrito Comedia
+http://158.69.127.19:8000/live/dydlista/dydlista/85.ts
+#EXTINF:-1,Disney XD
+http://158.69.127.19:8000/live/dydlista/dydlista/98.ts
+#EXTINF:-1,Disney Junior
+http://158.69.127.19:8000/live/dydlista/dydlista/91.ts
+#EXTINF:-1,Disney Channel
+http://158.69.127.19:8000/live/dydlista/dydlista/93.ts
+#EXTINF:-1,Discovey World HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/105.ts
+#EXTINF:-1,Discovery Turbo
+http://158.69.127.19:8000/live/dydlista/dydlista/113.ts
+#EXTINF:-1,Discovery TLC
+http://158.69.127.19:8000/live/dydlista/dydlista/114.ts
+#EXTINF:-1,Discovery Teather HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/102.ts
+#EXTINF:-1,Discovery Science
+http://158.69.127.19:8000/live/dydlista/dydlista/111.ts
+#EXTINF:-1,Discovery Kids
+http://158.69.127.19:8000/live/dydlista/dydlista/89.ts
+#EXTINF:-1,Discovery H&H
+http://158.69.127.19:8000/live/dydlista/dydlista/108.ts
+#EXTINF:-1,Discovery Civilization
+http://158.69.127.19:8000/live/dydlista/dydlista/112.ts
+#EXTINF:-1,Discovery Channel
+http://158.69.127.19:8000/live/dydlista/dydlista/106.ts
+#EXTINF:-1,De Pelicula HD
+http://158.69.127.19:8000/live/dydlista/dydlista/126.ts
+#EXTINF:-1,Comedy Central
+http://158.69.127.19:8000/live/dydlista/dydlista/70.ts
+#EXTINF:-1,CMD HD
+http://158.69.127.19:8000/live/dydlista/dydlista/10.ts
+#EXTINF:-1,CMD
+http://158.69.127.19:8000/live/dydlista/dydlista/9.ts
+#EXTINF:-1,Cinemax
+http://158.69.127.19:8000/live/dydlista/dydlista/129.ts
+#EXTINF:-1,Cine Canal HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/122.ts
+#EXTINF:-1,Cine Canal
+http://158.69.127.19:8000/live/dydlista/dydlista/130.ts
+#EXTINF:-1,Carton Network
+http://158.69.127.19:8000/live/dydlista/dydlista/97.ts
+#EXTINF:-1,CAPITAL TV
+http://158.69.127.19:8000/live/dydlista/dydlista/1.ts
+#EXTINF:-1,Cantinazo TV
+http://158.69.127.19:8000/live/dydlista/dydlista/27.ts
+#EXTINF:-1,Canal U
+http://158.69.127.19:8000/live/dydlista/dydlista/25.ts
+#EXTINF:-1,Canal TRO
+http://158.69.127.19:8000/live/dydlista/dydlista/24.ts
+#EXTINF:-1,Canal De Las Estrellas SD
+http://158.69.127.19:8000/live/dydlista/dydlista/51.ts
+#EXTINF:-1,Canal de Congreso
+http://158.69.127.19:8000/live/dydlista/dydlista/14.ts
+#EXTINF:-1,Canal Capital
+http://158.69.127.19:8000/live/dydlista/dydlista/22.ts
+#EXTINF:-1,Canal Antiestres
+http://158.69.127.19:8000/live/dydlista/dydlista/21.ts
+#EXTINF:-1,Canal 5 SD
+http://158.69.127.19:8000/live/dydlista/dydlista/54.ts
+#EXTINF:-1,Cablenoticias
+http://158.69.127.19:8000/live/dydlista/dydlista/20.ts
+#EXTINF:-1,Boomerang
+http://158.69.127.19:8000/live/dydlista/dydlista/99.ts
+#EXTINF:-1,BHTV
+http://158.69.127.19:8000/live/dydlista/dydlista/13.ts
+#EXTINF:-1,BBC Entertainment
+http://158.69.127.19:8000/live/dydlista/dydlista/76.ts
+#EXTINF:-1,CBEEBIES
+http://158.69.127.19:8000/live/dydlista/dydlista/90.ts
+#EXTINF:-1,Bandamax
+http://158.69.127.19:8000/live/dydlista/dydlista/155.ts
+#EXTINF:-1,Azteca Noticias SD
+http://158.69.127.19:8000/live/dydlista/dydlista/46.ts
+#EXTINF:-1,Azteca Corazon SD
+http://158.69.127.19:8000/live/dydlista/dydlista/50.ts
+#EXTINF:-1,Azteca 7 SD
+http://158.69.127.19:8000/live/dydlista/dydlista/47.ts
+#EXTINF:-1,Az Mundo SD
+http://158.69.127.19:8000/live/dydlista/dydlista/87.ts
+#EXTINF:-1,AZ Click SD
+http://158.69.127.19:8000/live/dydlista/dydlista/52.ts
+#EXTINF:-1,Az Cinema HD  (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/121.ts
+#EXTINF:-1,Aym Sports
+http://158.69.127.19:8000/live/dydlista/dydlista/145.ts
+#EXTINF:-1,AXN HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/68.ts
+#EXTINF:-1,ATV
+http://158.69.127.19:8000/live/dydlista/dydlista/2.ts
+#EXTINF:-1,Animal Planet
+http://158.69.127.19:8000/live/dydlista/dydlista/107.ts
+#EXTINF:-1,AMERICA TV
+http://158.69.127.19:8000/live/dydlista/dydlista/18.ts
+#EXTINF:-1,AMC HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/127.ts
+#EXTINF:-1,A&E HD (SD)
+http://158.69.127.19:8000/live/dydlista/dydlista/67.ts
+#EXTINF:-1,Atreseries
+http://158.69.127.19:8000/live/dydlista/dydlista/165.ts
+#EXTINF:-1,Antena 3
+http://158.69.127.19:8000/live/dydlista/dydlista/294.ts
+#EXTINF:-1,Anime Tv
+http://158.69.127.19:8000/live/dydlista/dydlista/168.ts
+#EXTINF:-1,Azteca 7 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/173.ts
+#EXTINF:-1,AZTECA 13 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/176.ts
+#EXTINF:-1,Canal De Las Estrellas
+http://158.69.127.19:8000/live/dydlista/dydlista/172.ts
+#EXTINF:-1,DW Latinoamérica
+http://158.69.127.19:8000/live/dydlista/dydlista/198.ts
+#EXTINF:-1,Euronews
+http://158.69.127.19:8000/live/dydlista/dydlista/292.ts
+#EXTINF:-1,Megavision Chile TV
+http://158.69.127.19:8000/live/dydlista/dydlista/169.ts
+#EXTINF:-1,Milenio TV HD
+http://158.69.127.19:8000/live/dydlista/dydlista/224.ts
+#EXTINF:-1,Neox Kidz
+http://158.69.127.19:8000/live/dydlista/dydlista/166.ts
+#EXTINF:-1,Nova HD
+http://158.69.127.19:8000/live/dydlista/dydlista/167.ts
+#EXTINF:-1,Proyecto 40 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/177.ts
+#EXTINF:-1,RTS
+http://158.69.127.19:8000/live/dydlista/dydlista/171.ts
+#EXTINF:-1,TC
+http://158.69.127.19:8000/live/dydlista/dydlista/170.ts
+#EXTINF:-1,24 horas
+http://158.69.127.19:8000/live/dydlista/dydlista/293.ts
+#EXTINF:-1,DXT TV SD
+http://158.69.127.19:8000/live/dydlista/dydlista/181.ts
+#EXTINF:-1,DXT TV HQ
+http://158.69.127.19:8000/live/dydlista/dydlista/182.ts
+#EXTINF:-1,Eurosport eng HD
+http://158.69.127.19:8000/live/dydlista/dydlista/259.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/258.ts
+#EXTINF:-1,EUROSPORT 1 FR HD
+http://158.69.127.19:8000/live/dydlista/dydlista/257.ts
+#EXTINF:-1,Eurosport
+http://158.69.127.19:8000/live/dydlista/dydlista/183.ts
+#EXTINF:-1,ESPN ENGLISH
+http://158.69.127.19:8000/live/dydlista/dydlista/189.ts
+#EXTINF:-1,FUTBOL TV
+http://158.69.127.19:8000/live/dydlista/dydlista/190.ts
+#EXTINF:-1,NFL Now
+http://158.69.127.19:8000/live/dydlista/dydlista/241.ts
+#EXTINF:-1,NFL
+http://158.69.127.19:8000/live/dydlista/dydlista/178.ts
+#EXTINF:-1,NBA TV
+http://158.69.127.19:8000/live/dydlista/dydlista/185.ts
+#EXTINF:-1,Redbull TV
+http://158.69.127.19:8000/live/dydlista/dydlista/186.ts
+#EXTINF:-1,REAL MADRID SD
+http://158.69.127.19:8000/live/dydlista/dydlista/188.ts
+#EXTINF:-1,REAL MADRID HD
+http://158.69.127.19:8000/live/dydlista/dydlista/187.ts
+#EXTINF:-1,Sports Night eng
+http://158.69.127.19:8000/live/dydlista/dydlista/268.ts
+#EXTINF:-1,Sport 1
+http://158.69.127.19:8000/live/dydlista/dydlista/267.ts
+#EXTINF:-1,Sport 2
+http://158.69.127.19:8000/live/dydlista/dydlista/265.ts
+#EXTINF:-1,Sport 3
+http://158.69.127.19:8000/live/dydlista/dydlista/264.ts
+#EXTINF:-1,Sport 4
+http://158.69.127.19:8000/live/dydlista/dydlista/263.ts
+#EXTINF:-1,Sport 5
+http://158.69.127.19:8000/live/dydlista/dydlista/262.ts
+#EXTINF:-1,Sport 6
+http://158.69.127.19:8000/live/dydlista/dydlista/261.ts
+#EXTINF:-1,TyC Sports SD
+http://158.69.127.19:8000/live/dydlista/dydlista/179.ts
+#EXTINF:-1,TyC Sports HD
+http://158.69.127.19:8000/live/dydlista/dydlista/180.ts
+#EXTINF:-1,SPORT TIME2 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/192.ts
+#EXTINF:-1,SPORT TIME TV 2HQ
+http://158.69.127.19:8000/live/dydlista/dydlista/195.ts
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://158.69.127.19:8000/live/dydlista/dydlista/251.ts
+#EXTINF:-1,PAC-12 Net. (Moutain)
+http://158.69.127.19:8000/live/dydlista/dydlista/249.ts
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://158.69.127.19:8000/live/dydlista/dydlista/247.ts
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://158.69.127.19:8000/live/dydlista/dydlista/246.ts
+#EXTINF:-1,PAC-12 (3)
+http://158.69.127.19:8000/live/dydlista/dydlista/245.ts
+#EXTINF:-1,PAC-12 (1)
+http://158.69.127.19:8000/live/dydlista/dydlista/243.ts
+#EXTINF:-1,WIN Sports
+http://158.69.127.19:8000/live/dydlista/dydlista/184.ts
+#EXTINF:-1,ABC News
+http://158.69.127.19:8000/live/dydlista/dydlista/200.ts
+#EXTINF:-1,Animal Planet LIVE
+http://158.69.127.19:8000/live/dydlista/dydlista/201.ts
+#EXTINF:-1,BLOOMBERG
+http://158.69.127.19:8000/live/dydlista/dydlista/202.ts
+#EXTINF:-1,CNN
+http://158.69.127.19:8000/live/dydlista/dydlista/203.ts
+#EXTINF:-1,London Live
+http://158.69.127.19:8000/live/dydlista/dydlista/208.ts
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://158.69.127.19:8000/live/dydlista/dydlista/271.ts
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://158.69.127.19:8000/live/dydlista/dydlista/270.ts
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://158.69.127.19:8000/live/dydlista/dydlista/269.ts
+#EXTINF:-1,VEVO HD
+http://158.69.127.19:8000/live/dydlista/dydlista/217.ts
+#EXTINF:-1,VEVO 1
+http://158.69.127.19:8000/live/dydlista/dydlista/214.ts
+#EXTINF:-1,Vevo 1 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/218.ts
+#EXTINF:-1,VEVO 2
+http://158.69.127.19:8000/live/dydlista/dydlista/215.ts
+#EXTINF:-1,Vevo 2 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/219.ts
+#EXTINF:-1,VEVO 3
+http://158.69.127.19:8000/live/dydlista/dydlista/216.ts
+#EXTINF:-1,Vevo 3 HD
+http://158.69.127.19:8000/live/dydlista/dydlista/220.ts
+#EXTINF:-1,SKY TG24 ita
+http://158.69.127.19:8000/live/dydlista/dydlista/253.ts
+#EXTINF:-1,The Florida Channel
+http://158.69.127.19:8000/live/dydlista/dydlista/212.ts
+#EXTINF:-1,TV MIAMI MUSIC
+http://158.69.127.19:8000/live/dydlista/dydlista/255.ts
+#EXTINF:-1,TWiT Live
+http://158.69.127.19:8000/live/dydlista/dydlista/213.ts
+#EXTINF:-1,News Westchester
+http://158.69.127.19:8000/live/dydlista/dydlista/240.ts
+#EXTINF:-1,News New Jersey(Weather)
+http://158.69.127.19:8000/live/dydlista/dydlista/239.ts
+#EXTINF:-1,News New Jersey(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/238.ts
+#EXTINF:-1,News Long Island(Weather)
+http://158.69.127.19:8000/live/dydlista/dydlista/237.ts
+#EXTINF:-1,News Long Island(Stream 2)
+http://158.69.127.19:8000/live/dydlista/dydlista/236.ts
+#EXTINF:-1,News Hudson Valley(Weather)
+http://158.69.127.19:8000/live/dydlista/dydlista/235.ts
+#EXTINF:-1,News Hudson Valley(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/234.ts
+#EXTINF:-1,News Connecticut(Weather)
+http://158.69.127.19:8000/live/dydlista/dydlista/233.ts
+#EXTINF:-1,News Connecticut(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/232.ts
+#EXTINF:-1,News Brooklyn(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/231.ts
+#EXTINF:-1,News Bronx(Weather)
+http://158.69.127.19:8000/live/dydlista/dydlista/230.ts
+#EXTINF:-1,News Bronx(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/229.ts
+#EXTINF:-1,News 12 Long Island(Stream 1)
+http://158.69.127.19:8000/live/dydlista/dydlista/228.ts
 
 #EXTINF:-1,[I][B][COLOR yellow] --ENGLISH-- [/COLOR][/B][/I]
 http://?
