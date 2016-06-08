@@ -86,6 +86,27 @@ http://orbit-iptv.com:2500/live/3TPEBi8BO4/xKZDeah98g/3113.ts
 #EXTINF:0,ES: ANDALUCIA_TV
 http://orbit-iptv.com:2500/live/3TPEBi8BO4/xKZDeah98g/3114.ts
 
+#EXTINF:0,BeinSport-1-low
+http://149.202.197.37:8000/live/amr123/amr123/1070.ts
+#EXTINF:0,BeinSport-2-low
+http://149.202.197.37:8000/live/amr123/amr123/1071.ts
+#EXTINF:0,BeinSport-3-low
+http://149.202.197.37:8000/live/amr123/amr123/1072.ts
+#EXTINF:0,BeinSport-4-low
+http://149.202.197.37:8000/live/amr123/amr123/1073.ts
+#EXTINF:0,BeinSport-5-low
+http://149.202.197.37:8000/live/amr123/amr123/1074.ts
+#EXTINF:0,BeinSport-6-low
+http://149.202.197.37:8000/live/amr123/amr123/1075.ts
+#EXTINF:0,BeinSport-7-low
+http://149.202.197.37:8000/live/amr123/amr123/1076.ts
+#EXTINF:0,BeinSport-8-low
+http://149.202.197.37:8000/live/amr123/amr123/1077.ts
+#EXTINF:0,BeinSport-9-low
+http://149.202.197.37:8000/live/amr123/amr123/1078.ts
+#EXTINF:0,BeinSport-10-low
+http://149.202.197.37:8000/live/amr123/amr123/1079.ts
+
 #EXTINF:-1,[I][B][COLOR yellow] --ENGLISH-- [/COLOR][/B][/I]
 http://?
 
